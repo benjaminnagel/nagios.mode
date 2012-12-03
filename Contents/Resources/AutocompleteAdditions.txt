@@ -1,0 +1,9 @@
+define command
+command_name
+command_line
+define host
+host_name
+alias
+address
+use
+parents
