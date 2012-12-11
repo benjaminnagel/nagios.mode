@@ -62,9 +62,9 @@
 
             <keywords id="Keywords" color="#400080" font-weight="bold" casesensitive="no" useforautocomplete="yes">
             
-				<string>host_name</string>
-				<string>name</string>
-				<string>alias</string>
+                <string>host_name</string>
+                <string>name</string>
+                <string>alias</string>
                 <string>address</string>
                 <string>use</string>
                 <string>parents</string>
@@ -88,13 +88,49 @@
                 <string>max_check_attempts</string>
                 <string>register</string>
                 <string>notification_options</string>
+                <string>command_name</string>
+                <string>command_line</string>
+                <string>active_checks_enabled</string>
+                <string>passive_checks_enabled</string>
+                <string>parallelize_check</string>
+                <string>obsess_over_service</string>
+                <string>check_freshness</string>
+                <string>notifications_enabled</string>
+                <string>event_handler_enabled</string>
+                <string>flap_detection_enabled</string>
+                <string>failure_prediction_enabled</string>
+                <string>process_perf_data</string>
+                <string>retain_status_information</string>
+                <string>retain_nonstatus_information</string>
+                <string>is_volatile</string>
+                <string>check_period</string>
+                <string>normal_check_interval</string>
+                <string>retry_check_interval</string>
+                <string>notification_period</string>
+                <string></string>
+                <string></string>
+                <string></string>
                 <string></string>
 
             </keywords>
 
-            <keywords id="Definitions" color="#6C0540" font-weight="bold" casesensitive="no" font-style="italic" useforautocomplete="yes">
+            <keywords id="Define" color="#6C0540" font-weight="bold" casesensitive="no" font-style="italic" useforautocomplete="yes">
                 
                 <string>define</string>
+
+            </keywords>
+
+            <keywords id="Definitions" color="#DBA901" font-weight="bold" casesensitive="no" font-style="italic" useforautocomplete="yes">
+                
+                <string>contact</string>
+                <string>contactgroup</string>
+                <string>command</string>
+                <string>service</string>
+                <string>host</string>
+                <string></string>
+                <string></string>
+                <string></string>
+                <string></string>
 
             </keywords>
             
